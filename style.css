@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(40, 169, 255)!important;
+    min-height: 100vh;
+}
+
+.container-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 80vh;
+}
+
+.question-footer {
+    border-top: 1px solid rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 12px;
+}
