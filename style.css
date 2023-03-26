@@ -33,6 +33,11 @@ body {
     align-items: center;
 }
 
+.endscreen img {
+    width: 30%;
+    height: 30%;
+}
+
 .progress {
     background-color: blue !important;
     color: white;
